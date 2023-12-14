@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\ACER\source\repos\LoginBackend20233\LoginBackend20233\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-12-12T19:47:11.0726651Z;True|2023-12-12T13:38:22.7444292-06:00;True|2023-12-12T10:13:19.2901844-06:00;True|2023-12-12T08:50:56.0611948-06:00;True|2023-12-11T21:41:24.5310478-06:00;False|2023-12-11T21:40:56.9804040-06:00;True|2023-12-11T14:39:23.8059653-06:00;True|2023-11-25T18:40:32.5200395-06:00;True|2023-11-21T08:59:34.0364200-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
